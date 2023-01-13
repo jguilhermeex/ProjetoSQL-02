@@ -1,4 +1,4 @@
-# Projeto de análise de perfil dos clientes de uma empresa
+# Projeto de Análise de Perfil dos Consumidores
 
 ![online-gb54a3886d_640](https://user-images.githubusercontent.com/120759992/212311599-bc170875-1f82-4af7-9c4f-e322c032060a.jpg)
 
