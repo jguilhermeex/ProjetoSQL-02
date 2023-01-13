@@ -4,7 +4,7 @@
 
 
 # Objetivo
-Este projeto teve o objetivo de identificar comportamento,características e preferências dos clientes da empresa para auxílio da tomada de decisão que poderá promover:
+Este projeto teve o objetivo de identificar o comportamento,as características e as preferências dos clientes da empresa para auxílio da tomada de decisão que poderá promover:
     
 -  Maior assertividade nas estratégias de marketing;
 -  Planejamentos mais adequados;
