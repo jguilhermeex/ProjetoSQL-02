@@ -32,3 +32,7 @@ O projeto foi documentado com as queries completas que geraram cada gráfico no 
 
 <img width="856" alt="Documentação" src="https://user-images.githubusercontent.com/120759992/212308727-72bed17b-1a38-4e8e-81c3-ea0afbf1fb4f.PNG">
 
+
+# Créditos
+[Midori Toyota - Cliquei Aqui](https://www.udemy.com/course/sql-para-analise-de-dados/)
+
