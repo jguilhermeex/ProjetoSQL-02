@@ -21,7 +21,7 @@ Este projeto teve o objetivo de identificar o comportamento,as características 
 - A faixa salarial predominante é a de R$ 5000-10000 reais mensais
 - A faixa etária predominante é a de 20-40 anos de idade
 - A maioria dos veículos visitados são seminovos.
-- Os carros populares são os mais visitados.
+- Os carros populares são os mais visitados, com destaque para o Palio e o Gol.
 
 # Dashboard
 
