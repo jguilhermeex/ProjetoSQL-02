@@ -15,6 +15,7 @@ Este projeto teve o objetivo de identificar o comportamento, as características
 - Quais os modelos mais visitados?
 
 # Dados Analisados
+Os dados se encontram em 9 tabelas diferentes. Abaixo, o modelo de relacionamento lógico entre as tabelas:
 ![Diagrama+img](https://user-images.githubusercontent.com/120759992/213865662-97fb9990-c005-4a3b-aad8-26a0eb27d245.PNG)
 
 # Softwares utilizados
