@@ -43,5 +43,5 @@ O projeto foi documentado com as queries completas que geraram cada gráfico no 
 
 
 # Créditos
-Este projeto foi ensinado pela [Midori Toyota - Clique Aqui](https://www.udemy.com/course/sql-para-analise-de-dados/)
+[Midori Toyota - Clique Aqui](https://www.udemy.com/course/sql-para-analise-de-dados/)
 
