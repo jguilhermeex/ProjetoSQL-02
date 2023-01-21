@@ -5,7 +5,7 @@
 
 # Objetivo
 
-Este projeto teve o objetivo de identificar o comportamento, as características e as preferências dos clientes da empresa para auxílio da tomada de decisão.As perguntas de negócio solicitadas foram:
+Este projeto teve o objetivo de identificar o comportamento, as características e as preferências dos clientes da empresa para auxílio da tomada de decisão. As perguntas de negócio solicitadas foram:
 
 - Qual gênero predominante?
 - Qual a faixa etária dos clientes
