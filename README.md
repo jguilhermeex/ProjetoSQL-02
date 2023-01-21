@@ -8,11 +8,11 @@
 Este projeto teve o objetivo de identificar o comportamento, as características e as preferências dos clientes da empresa para auxílio da tomada de decisão.As perguntas de negócio solicitadas foram:
 
 - Qual gênero predominante?
-- Qual a Faixa etária dos clientes
-- Qual o Status profissional dos clientes?
+- Qual a faixa etária dos clientes
+- Qual o status profissional dos clientes?
 - Qual a faixa salarial dos clientes?
 - Qual a idade e categoria dos véiculos?
-- Quais as marcas e veículos mais visitados?
+- Quais os modelos mais visitados?
 
 # Dados Analisados
 ![Diagrama+img](https://user-images.githubusercontent.com/120759992/213865662-97fb9990-c005-4a3b-aad8-26a0eb27d245.PNG)
