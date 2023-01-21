@@ -13,7 +13,7 @@ Este projeto teve o objetivo de identificar o comportamento, as características
  - Maior satisfação do cliente;
  - Aumento das vendas.
  
-  **Fonte de pesquisa: [Clique Aqui](https://www.agendor.com.br/blog/perfil-do-consumidor/**)
+ **Fonte de pesquisa: [Clique Aqui](https://www.agendor.com.br/blog/perfil-do-consumidor/**)
 
 # Dados Analisados
 ![Diagrama+img](https://user-images.githubusercontent.com/120759992/213865662-97fb9990-c005-4a3b-aad8-26a0eb27d245.PNG)
@@ -23,7 +23,7 @@ Este projeto teve o objetivo de identificar o comportamento, as características
 - Microsoft Excel
 
 # Consultas
-As consultas podem ser visualizadas neste repositório. [Clique aqui para visualizar](PortfolioCurso.sql)
+As consultas podem ser visualizadas neste repositório. [Clique aqui para visualizar](ProjetoAnalisePerfilClientes.sql)
 
 # Conclusões
 - As mulheres são a maioria (60%).
