@@ -13,7 +13,7 @@ Este projeto teve o objetivo de identificar o comportamento, as características
  - Maior satisfação do cliente;
  - Aumento das vendas.
  
-  **Fonte de pesquisa: https://www.agendor.com.br/blog/perfil-do-consumidor/**
+  **Fonte de pesquisa: [Clique Aqui](https://www.agendor.com.br/blog/perfil-do-consumidor/**)
 
 # Conclusões
 - As mulheres são a maioria (60%).
