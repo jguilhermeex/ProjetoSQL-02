@@ -28,6 +28,10 @@ Os dados se encontram em 9 tabelas diferentes. Abaixo, o modelo de relacionament
 # Consultas
 As consultas podem ser visualizadas neste repositório. [Clique aqui para visualizar](ProjetoAnalisePerfilClientes.sql)
 
+# Dashboard
+
+<img width="867" alt="DashboardAnalisePerfilClientes" src="https://user-images.githubusercontent.com/120759992/212308651-70d2a891-a261-48b6-bd2e-b4ac755f2579.PNG">
+
 # Conclusões
 - As mulheres são a maioria (60%).
 - Trabalhadores CLT são a maioria do público e estudantes a minoria.
@@ -36,9 +40,7 @@ As consultas podem ser visualizadas neste repositório. [Clique aqui para visual
 - A maioria dos veículos visitados são seminovos.
 - Os carros populares são os mais visitados, com destaque para o Palio e o Gol.
 
-# Dashboard
 
-<img width="867" alt="DashboardAnalisePerfilClientes" src="https://user-images.githubusercontent.com/120759992/212308651-70d2a891-a261-48b6-bd2e-b4ac755f2579.PNG">
 
 # Documentação do projeto
 O projeto foi documentado com as queries completas que geraram cada gráfico no dashboard para que o tomador de decisão tenha segurança para analisar os dados.
