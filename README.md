@@ -4,16 +4,15 @@
 
 
 # Objetivo
-Este projeto teve o objetivo de identificar o comportamento, as características e as preferências dos clientes da empresa para auxílio da tomada de decisão que poderá promover:
-    
--  Maior assertividade nas estratégias de marketing;
--  Planejamentos mais adequados;
- - Redução de prejuízos;
- - Melhor escolha do canal e da linguagem da mensagem;
- - Maior satisfação do cliente;
- - Aumento das vendas.
- 
- Fonte de pesquisa: [Clique Aqui](https://www.agendor.com.br/blog/perfil-do-consumidor/)
+
+Este projeto teve o objetivo de identificar o comportamento, as características e as preferências dos clientes da empresa para auxílio da tomada de decisão.As perguntas de negócio solicitadas foram:
+
+- Qual gênero predominante?
+- Qual a Faixa etária dos clientes
+- Qual o Status profissional dos clientes?
+- Qual a faixa salarial dos clientes?
+- Qual a idade e categoria dos véiculos?
+- Quais as marcas e veículos mais visitados?
 
 # Dados Analisados
 ![Diagrama+img](https://user-images.githubusercontent.com/120759992/213865662-97fb9990-c005-4a3b-aad8-26a0eb27d245.PNG)
