@@ -8,7 +8,7 @@
 Este projeto teve o objetivo de identificar o comportamento, as características e as preferências dos clientes da empresa para auxílio da tomada de decisão. As perguntas de negócio solicitadas foram:
 
 - Qual o gênero dos clientes?
-- Qual a faixa etária dos clientes
+- Qual a faixa etária dos clientes?
 - Qual o status profissional dos clientes?
 - Qual a faixa salarial dos clientes?
 - Qual a idade e categoria dos véiculos?
