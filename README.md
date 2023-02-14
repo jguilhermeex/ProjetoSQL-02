@@ -40,6 +40,10 @@ As consultas podem ser visualizadas neste repositório. [Clique aqui para visual
 - A maioria dos veículos visitados são seminovos.
 - Os carros populares são os mais visitados, com destaque para o Palio e o Gol.
 
+# Recomendações ao tomador de decisão
+- O perfil do cliente da empresa é de classe média, que costuma comprar carros populares. Um foco neste público para eventuais promoções e campanhas de marketing e publicidade será primordial para um maior sucesso de vendas da empresa.
+- A maioria do público é de mulheres. Entender o que elas procuram em um carro é essencial para maior conversão de vendas. Além disso, um investimento maior em datas comemorativas ( dias das mães, dia das mulheres) para alcançar este público é válido.
+
 
 
 # Documentação do projeto
