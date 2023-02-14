@@ -42,7 +42,7 @@ As consultas podem ser visualizadas neste repositório. [Clique aqui para visual
 
 # Recomendações ao tomador de decisão
 - O perfil do cliente da empresa é de classe média, que costuma comprar carros populares. Um foco neste público para eventuais promoções, campanhas de marketing e publicidade será primordial para um maior sucesso de vendas da empresa.
-- A maioria do público é de mulheres. Entender o que elas procuram em um carro é essencial para maior conversão de vendas. Além disso, um investimento maior em datas comemorativas ( dias das mães, dia das mulheres) para alcançar este público é válido.
+- A maioria do público é de mulheres. Entender o que elas procuram em um carro é essencial para maior conversão de vendas. Além disso, um investimento maior em datas comemorativas ( Dia das Mães, Dia das Mulheres) para alcançar este público é válido.
 
 
 
