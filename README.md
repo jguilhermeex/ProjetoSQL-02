@@ -1,6 +1,8 @@
 # Projeto de Análise de Perfil dos Consumidores
 
-![online-gb54a3886d_640](https://user-images.githubusercontent.com/120759992/212311599-bc170875-1f82-4af7-9c4f-e322c032060a.jpg)
+<div style="display: flex; justify-content: space-between;"> <br>
+<img align="center"height="350" alt="coding-time" width = 1000 src="Imagem_Projeto_2">
+
 
 
 # Objetivo
