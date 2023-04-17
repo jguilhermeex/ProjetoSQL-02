@@ -1,7 +1,7 @@
 # Projeto de Análise de Perfil dos Consumidores
 
 <div style="display: flex; justify-content: space-between;"> <br>
-<img align="center"height="350" alt="coding-time" width = 1000 src="Imagem_Projeto_2">
+<img align="center"height="350" alt="coding-time" width = 1000 src="Imagem_Projeto_2.jpg">
 
 
 
